@@ -138,6 +138,11 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g4stylus-common/proprietary/etc/firmware/cpp_firmware_v1_4_0.fw:system/etc/firmware/cpp_firmware_v1_4_0.fw \
     vendor/lge/g4stylus-common/proprietary/bin/qseecomd:system/bin/qseecomd \
     vendor/lge/g4stylus-common/proprietary/lib/drm/libdrmwvmplugin.so:system/lib/drm/libdrmwvmplugin.so \
+    vendor/lge/g4stylus-common/proprietary/vendor/firmware/widevine.b00:system/vendor/firmware/widevine.b00 \
+    vendor/lge/g4stylus-common/proprietary/vendor/firmware/widevine.b01:system/vendor/firmware/widevine.b01 \
+    vendor/lge/g4stylus-common/proprietary/vendor/firmware/widevine.b02:system/vendor/firmware/widevine.b02 \
+    vendor/lge/g4stylus-common/proprietary/vendor/firmware/widevine.b03:system/vendor/firmware/widevine.b03 \
+    vendor/lge/g4stylus-common/proprietary/vendor/firmware/widevine.mdt:system/vendor/firmware/widevine.mdt \
     vendor/lge/g4stylus-common/proprietary/vendor/lib/libdrmdecrypt.so:system/vendor/lib/libdrmdecrypt.so \
     vendor/lge/g4stylus-common/proprietary/vendor/lib/libdrmfs.so:system/vendor/lib/libdrmfs.so \
     vendor/lge/g4stylus-common/proprietary/vendor/lib/libdrmtime.so:system/vendor/lib/libdrmtime.so \
@@ -230,4 +235,13 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g4stylus-common/proprietary/vendor/lib/libthermalioctl.so:system/vendor/lib/libthermalioctl.so \
     vendor/lge/g4stylus-common/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/lge/g4stylus-common/proprietary/vendor/lib/libtime_genoff.so:system/vendor/lib/libtime_genoff.so \
-    vendor/lge/g4stylus-common/proprietary/vendor/lib/libTimeService.so:system/vendor/lib/libTimeService.so
+    vendor/lge/g4stylus-common/proprietary/vendor/lib/libTimeService.so:system/vendor/lib/libTimeService.so \
+    vendor/lge/g4stylus-common/proprietary/vendor/firmware/wcnss.b00:system/vendor/firmware/wcnss.b00 \
+    vendor/lge/g4stylus-common/proprietary/vendor/firmware/wcnss.b01:system/vendor/firmware/wcnss.b01 \
+    vendor/lge/g4stylus-common/proprietary/vendor/firmware/wcnss.b02:system/vendor/firmware/wcnss.b02 \
+    vendor/lge/g4stylus-common/proprietary/vendor/firmware/wcnss.b04:system/vendor/firmware/wcnss.b04 \
+    vendor/lge/g4stylus-common/proprietary/vendor/firmware/wcnss.b06:system/vendor/firmware/wcnss.b06 \
+    vendor/lge/g4stylus-common/proprietary/vendor/firmware/wcnss.b09:system/vendor/firmware/wcnss.b09 \
+    vendor/lge/g4stylus-common/proprietary/vendor/firmware/wcnss.b10:system/vendor/firmware/wcnss.b10 \
+    vendor/lge/g4stylus-common/proprietary/vendor/firmware/wcnss.b11:system/vendor/firmware/wcnss.b11 \
+    vendor/lge/g4stylus-common/proprietary/vendor/firmware/wcnss.mdt:system/vendor/firmware/wcnss.mdt
