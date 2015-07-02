@@ -20,7 +20,15 @@ PRODUCT_COPY_FILES += \
     vendor/lge/h631/proprietary/bin/radish:system/bin/radish \
     vendor/lge/h631/proprietary/bin/rfs_access:system/bin/rfs_access \
     vendor/lge/h631/proprietary/bin/rmt_storage:system/bin/rmt_storage \
+    vendor/lge/h631/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/lge/h631/proprietary/lib/librmnetctl.so:system/lib/librmnetctl.so \
+    vendor/lge/h631/proprietary/lib/libuicc.so:system/lib/libuicc.so \
+    vendor/lge/h631/proprietary/lib/libvss_common_idl.so:system/lib/libvss_common_idl.so \
+    vendor/lge/h631/proprietary/lib/libvss_common_iface.so:system/lib/libvss_common_iface.so \
+    vendor/lge/h631/proprietary/lib/libvss_nv_idl.so:system/lib/libvss_nv_idl.so \
+    vendor/lge/h631/proprietary/lib/libvss_nv_iface.so:system/lib/libvss_nv_iface.so \
+    vendor/lge/h631/proprietary/lib/libvss_resim_idl.so:system/lib/libvss_resim_idl.so \
+    vendor/lge/h631/proprietary/lib/libvss_resim_iface.so:system/lib/libvss_resim_iface.so \
     vendor/lge/h631/proprietary/vendor/lib/libcneapiclient.so:system/vendor/lib/libcneapiclient.so \
     vendor/lge/h631/proprietary/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
     vendor/lge/h631/proprietary/vendor/lib/libmdmdetect.so:system/vendor/lib/libmdmdetect.so \
