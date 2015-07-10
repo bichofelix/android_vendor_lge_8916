@@ -35,6 +35,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g4stylus-common/proprietary/vendor/lib/soundfx/libqcbassboost.so:system/vendor/lib/soundfx/libqcbassboost.so \
     vendor/lge/g4stylus-common/proprietary/vendor/lib/soundfx/libqcreverb.so:system/vendor/lib/soundfx/libqcreverb.so \
     vendor/lge/g4stylus-common/proprietary/vendor/lib/soundfx/libqcvirt.so:system/vendor/lib/soundfx/libqcvirt.so \
+    vendor/lge/g4stylus-common/proprietary/bin/vm_bms:system/bin/vm_bms \
     vendor/lge/g4stylus-common/proprietary/bin/btnvtool:system/bin/btnvtool \
     vendor/lge/g4stylus-common/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/lge/g4stylus-common/proprietary/vendor/lib/libbtnv.so:system/vendor/lib/libbtnv.so \
