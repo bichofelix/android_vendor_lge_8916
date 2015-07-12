@@ -17,13 +17,14 @@
 # Pick up overlay for features that depend on non-open-source files
 PRODUCT_PACKAGES += \
     com.qualcomm.location \
-    com.qualcomm.services.location \
     TimeService \
     qcrilmsgtunnel \
     shutdownlistener \
     qcnvitems \
     qcrilhook \
     libHevcSwDecoder \
+    libloc_api_v02 \
+    libloc_ds_api \
     libtime_genoff
 
 $(call inherit-product, vendor/lge/g4stylus-common/g4stylus-common-vendor-blobs.mk)
