@@ -242,9 +242,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g4stylus-common/proprietary/etc/permissions/qcnvitems.xml:system/etc/permissions/qcnvitems.xml \
     vendor/lge/g4stylus-common/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
     vendor/lge/g4stylus-common/proprietary/bin/sensord:system/bin/sensord \
-    vendor/lge/g4stylus-common/proprietary/lib/hw/lights.msm8916.so:system/lib/hw/lights.msm8916.so \
     vendor/lge/g4stylus-common/proprietary/lib/hw/sensors.msm8916.so:system/lib/hw/sensors.msm8916.so \
-    vendor/lge/g4stylus-common/proprietary/lib/libproxyhal.so:system/lib/libproxyhal.so \
     vendor/lge/g4stylus-common/proprietary/bin/thermal-engine:system/bin/thermal-engine \
     vendor/lge/g4stylus-common/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
     vendor/lge/g4stylus-common/proprietary/vendor/lib/libthermalioctl.so:system/vendor/lib/libthermalioctl.so \
