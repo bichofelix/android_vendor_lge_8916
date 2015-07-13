@@ -35,6 +35,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/ms345/proprietary/vendor/lib/soundfx/libqcbassboost.so:system/vendor/lib/soundfx/libqcbassboost.so \
     vendor/lge/ms345/proprietary/vendor/lib/soundfx/libqcreverb.so:system/vendor/lib/soundfx/libqcreverb.so \
     vendor/lge/ms345/proprietary/vendor/lib/soundfx/libqcvirt.so:system/vendor/lib/soundfx/libqcvirt.so \
+    vendor/lge/ms345/proprietary/bin/vm_bms:system/bin/vm_bms \
     vendor/lge/ms345/proprietary/bin/btnvtool:system/bin/btnvtool \
     vendor/lge/ms345/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/lge/ms345/proprietary/vendor/lib/libbtnv.so:system/vendor/lib/libbtnv.so \
