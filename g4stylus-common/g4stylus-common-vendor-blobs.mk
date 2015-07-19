@@ -165,17 +165,23 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g4stylus-common/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
     vendor/lge/g4stylus-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
     vendor/lge/g4stylus-common/proprietary/bin/location-mq:system/bin/location-mq \
+    vendor/lge/g4stylus-common/proprietary/bin/lowi-server:system/bin/lowi-server \
+    vendor/lge/g4stylus-common/proprietary/bin/xtwifi-client:system/bin/xtwifi-client \
+    vendor/lge/g4stylus-common/proprietary/bin/xtwifi-inet-agent:system/bin/xtwifi-inet-agent \
     vendor/lge/g4stylus-common/proprietary/etc/flp.conf:system/etc/flp.conf \
     vendor/lge/g4stylus-common/proprietary/etc/izat.conf:system/etc/izat.conf \
     vendor/lge/g4stylus-common/proprietary/etc/permissions/com.qualcomm.location.xml:system/etc/permissions/com.qualcomm.location.xml \
     vendor/lge/g4stylus-common/proprietary/etc/quipc.conf:system/etc/quipc.conf \
+    vendor/lge/g4stylus-common/proprietary/etc/lowi.conf:system/etc/lowi.conf \
     vendor/lge/g4stylus-common/proprietary/etc/sap.conf:system/etc/sap.conf \
+    vendor/lge/g4stylus-common/proprietary/etc/xtwifi.conf:system/etc/xtwifi.conf \
     vendor/lge/g4stylus-common/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     vendor/lge/g4stylus-common/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
     vendor/lge/g4stylus-common/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/lge/g4stylus-common/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
     vendor/lge/g4stylus-common/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
     vendor/lge/g4stylus-common/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
+    vendor/lge/g4stylus-common/proprietary/vendor/bin/slim_ap_daemon:system/vendor/bin/slim_ap_daemon \
     vendor/lge/g4stylus-common/proprietary/vendor/lib/hw/flp.default.so:system/vendor/lib/hw/flp.default.so \
     vendor/lge/g4stylus-common/proprietary/vendor/lib/libgeofence.so:system/vendor/lib/libgeofence.so \
     vendor/lge/g4stylus-common/proprietary/vendor/lib/libizat_core.so:system/vendor/lib/libizat_core.so \
